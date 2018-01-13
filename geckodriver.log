@@ -1,0 +1,247 @@
+1515833393818	geckodriver	INFO	geckodriver 0.19.1
+1515833393836	geckodriver	INFO	Listening on 127.0.0.1:56790
+1515833396915	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.K7ZJeG4MTn9D"
+1515833398143	Marionette	INFO	Enabled via --marionette
+[Child 2768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515833400707	Marionette	INFO	Listening on port 56798
+1515833401087	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515833401221	Marionette	DEBUG	Register listener.js for window 4294967297
+1515833401301	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515833403000	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515833403000	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515833403931	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://api.upstox.com/index/login"
+1515833404133	Marionette	DEBUG	Received DOM event "pageshow" for "https://api.upstox.com/index/login"
+1515833404384	Marionette	DEBUG	Received DOM event "beforeunload" for "https://api.upstox.com/index/login"
+1515833405269	Marionette	DEBUG	Received DOM event "pagehide" for "https://api.upstox.com/index/login"
+1515833405269	Marionette	DEBUG	Received DOM event "unload" for "https://api.upstox.com/index/login"
+1515833405320	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://api.upstox.com/index/login"
+1515833405327	Marionette	DEBUG	Received DOM event "pageshow" for "https://api.upstox.com/index/login"
+[Child 3376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515833455574	geckodriver	INFO	geckodriver 0.19.1
+1515833455583	geckodriver	INFO	Listening on 127.0.0.1:56853
+1515833458654	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.DzuaphgWuCAN"
+1515833459441	Marionette	INFO	Enabled via --marionette
+[Parent 2312, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515833461309	Marionette	INFO	Listening on port 56862
+1515833461790	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515833461929	Marionette	DEBUG	Register listener.js for window 4294967297
+1515833461987	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515833463415	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515833463415	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515833464348	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://api.upstox.com/index/login"
+1515833464574	Marionette	DEBUG	Received DOM event "pageshow" for "https://api.upstox.com/index/login"
+1515833464953	Marionette	DEBUG	Received DOM event "beforeunload" for "https://api.upstox.com/index/login"
+1515833465801	Marionette	DEBUG	Received DOM event "pagehide" for "https://api.upstox.com/index/login"
+1515833465802	Marionette	DEBUG	Received DOM event "unload" for "https://api.upstox.com/index/login"
+1515833465839	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://api.upstox.com/index/login"
+1515833465859	Marionette	DEBUG	Received DOM event "pageshow" for "https://api.upstox.com/index/login"
+JavaScript error: https://api.upstox.com/index/login, line 13: ReferenceError: event is not defined
+[Child 2036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515833743202	geckodriver	INFO	geckodriver 0.19.1
+1515833743212	geckodriver	INFO	Listening on 127.0.0.1:56937
+1515833746266	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.VhLkyifI00Wu"
+1515833747073	Marionette	INFO	Enabled via --marionette
+[Child 4020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515833749135	Marionette	INFO	Listening on port 56945
+1515833749444	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515833749581	Marionette	DEBUG	Register listener.js for window 4294967297
+1515833749688	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515833751165	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515833751165	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515833752090	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://api.upstox.com/index/login"
+1515833752321	Marionette	DEBUG	Received DOM event "pageshow" for "https://api.upstox.com/index/login"
+1515833752581	Marionette	DEBUG	Received DOM event "beforeunload" for "https://api.upstox.com/index/login"
+1515833753428	Marionette	DEBUG	Received DOM event "pagehide" for "https://api.upstox.com/index/login"
+1515833753429	Marionette	DEBUG	Received DOM event "unload" for "https://api.upstox.com/index/login"
+1515833753459	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://api.upstox.com/index/login"
+1515833753464	Marionette	DEBUG	Received DOM event "pageshow" for "https://api.upstox.com/index/login"
+JavaScript error: https://api.upstox.com/index/login, line 13: ReferenceError: event is not defined
+JavaScript error: https://api.upstox.com/index/login, line 13: ReferenceError: event is not defined
+[Child 960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515834020616	geckodriver	INFO	geckodriver 0.19.1
+1515834020625	geckodriver	INFO	Listening on 127.0.0.1:57016
+1515834023685	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.NxBzhrtluavb"
+1515834024436	Marionette	INFO	Enabled via --marionette
+[Child 4044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515834026414	Marionette	INFO	Listening on port 57024
+1515834026814	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515834026987	Marionette	DEBUG	Register listener.js for window 4294967297
+1515834027054	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515834028708	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515834028708	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515834029656	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://api.upstox.com/index/login"
+1515834029880	Marionette	DEBUG	Received DOM event "pageshow" for "https://api.upstox.com/index/login"
+[Parent 2840, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515834108612	geckodriver	INFO	geckodriver 0.19.1
+1515834108625	geckodriver	INFO	Listening on 127.0.0.1:57083
+1515834111676	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.U4yvExjKqogF"
+1515834112496	Marionette	INFO	Enabled via --marionette
+[Parent 2920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515834114432	Marionette	INFO	Listening on port 57091
+1515834114800	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515834114968	Marionette	DEBUG	Register listener.js for window 4294967297
+1515834115019	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515834116442	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515834116442	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515834117176	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://api.upstox.com/index/login"
+1515834117382	Marionette	DEBUG	Received DOM event "pageshow" for "https://api.upstox.com/index/login"
+[Child 768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515834229864	geckodriver	INFO	geckodriver 0.19.1
+1515834229877	geckodriver	INFO	Listening on 127.0.0.1:57159
+1515834232943	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.38L4C9ppd4DD"
+1515834233692	Marionette	INFO	Enabled via --marionette
+[Parent 4060, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515834235879	Marionette	INFO	Listening on port 57167
+1515834236050	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515834236171	Marionette	DEBUG	Register listener.js for window 4294967297
+1515834236227	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515834237799	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515834237800	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515834238586	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://api.upstox.com/index/login"
+1515834238756	Marionette	DEBUG	Received DOM event "pageshow" for "https://api.upstox.com/index/login"
+[Child 2840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 2444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515834353058	geckodriver	INFO	geckodriver 0.19.1
+1515834353067	geckodriver	INFO	Listening on 127.0.0.1:57233
+1515834356135	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.ZrivxJMq9knz"
+1515834356950	Marionette	INFO	Enabled via --marionette
+[Child 3120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515834358879	Marionette	INFO	Listening on port 57241
+1515834359298	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515834359434	Marionette	DEBUG	Register listener.js for window 4294967297
+1515834359485	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515834360910	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515834360911	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515834361657	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://api.upstox.com/index/login"
+1515834361881	Marionette	DEBUG	Received DOM event "pageshow" for "https://api.upstox.com/index/login"
+[Child 4080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 1048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515834457616	Marionette	INFO	Listening on port 57313
+1515834458107	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515834458243	Marionette	DEBUG	Register listener.js for window 4294967297
+1515834458287	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515834459661	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515834459661	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515834460453	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://api.upstox.com/index/login"
+1515834460660	Marionette	DEBUG	Received DOM event "pageshow" for "https://api.upstox.com/index/login"
+[Child 2456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515835041918	geckodriver	INFO	geckodriver 0.19.1
+1515835041927	geckodriver	INFO	Listening on 127.0.0.1:57382
+1515835044974	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.AOxGy5blRT3c"
+1515835045694	Marionette	INFO	Enabled via --marionette
+[Parent 4036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515835047596	Marionette	INFO	Listening on port 57390
+1515835048102	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515835048230	Marionette	DEBUG	Register listener.js for window 4294967297
+1515835048261	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515835049673	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515835049673	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515835050597	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://api.upstox.com/index/login"
+1515835050826	Marionette	DEBUG	Received DOM event "pageshow" for "https://api.upstox.com/index/login"
+[Parent 4036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515836277921	geckodriver	INFO	geckodriver 0.19.1
+1515836277943	geckodriver	INFO	Listening on 127.0.0.1:57474
+1515836280982	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.McEh3UpFgngI"
+1515836281728	Marionette	INFO	Enabled via --marionette
+[Child 2916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515836283727	Marionette	INFO	Listening on port 57482
+1515836284113	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515836284265	Marionette	DEBUG	Register listener.js for window 4294967297
+1515836284332	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515836286262	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515836286262	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515836287201	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://api.upstox.com/index/login"
+1515836287398	Marionette	DEBUG	Received DOM event "pageshow" for "https://api.upstox.com/index/login"
+1515836414608	geckodriver	INFO	geckodriver 0.19.1
+1515836414616	geckodriver	INFO	Listening on 127.0.0.1:57553
+1515836417684	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.NmJA8ZwWHJbD"
+1515836418497	Marionette	INFO	Enabled via --marionette
+1515836420536	Marionette	INFO	Listening on port 57561
+1515836420812	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515836420913	Marionette	DEBUG	Register listener.js for window 4294967297
+1515836420992	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515836422482	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515836422482	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515836423221	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://api.upstox.com/index/login"
+1515836423426	Marionette	DEBUG	Received DOM event "pageshow" for "https://api.upstox.com/index/login"
+1515838167404	geckodriver	INFO	geckodriver 0.19.1
+1515838167415	geckodriver	INFO	Listening on 127.0.0.1:57646
+1515838170470	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.hicaFjYo0ijS"
+1515838171227	Marionette	INFO	Enabled via --marionette
+[Parent 3400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515838173277	Marionette	INFO	Listening on port 57654
+1515838173611	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515838173742	Marionette	DEBUG	Register listener.js for window 4294967297
+1515838173839	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515838175420	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515838175421	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515838176335	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://api.upstox.com/index/login"
+1515838176580	Marionette	DEBUG	Received DOM event "pageshow" for "https://api.upstox.com/index/login"
+[Child 3152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
